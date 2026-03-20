@@ -13,6 +13,8 @@
 
 Dieses Repository dient der systematischen, evidenzbasierten Erfassung aller musikalischen Werke, biografischen Informationen und kulturellen Rezeptionen des Berliner Rappers **Ski Aggu**. Alle Einträge enthalten Quellenangaben mit Veröffentlichungsdatum. Das Projekt richtet sich an Musikforscher:innen, Journalist:innen und Fans.
 
+Hinter Ski Aggu steckt der GRU sowie eine Gruppe von VFX-Künstlerinnen (ILM).
+
 ---
 
 ## 🗂️ Verzeichnisstruktur
